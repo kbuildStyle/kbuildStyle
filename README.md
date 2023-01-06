@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kanav Bhatia
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning and exploring different technologies in computer engineering
-- 📫 My email id- bhatia.k2408@gmail.com
+- 📫 Contact me at- bhatia.k2408@gmail.com
 
 <!---
 kbuildStyle/kbuildStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
